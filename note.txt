@@ -1,0 +1,5 @@
+install packages bulma để làm giao diện
+install web3 ddeer lieen keets metamask
+i @metamask/detect-provider để liên kết ví metamask meta metamask
+
+đổi đường dẫn contract build trong trufle-config vào public để đễ lấy files
