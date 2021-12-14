@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Geniverse-faucet-BlockchainVBI2021/static/css/main.37f0a108.chunk.css",
+    "main.js": "/Geniverse-faucet-BlockchainVBI2021/static/js/main.a668ab36.chunk.js",
+    "main.js.map": "/Geniverse-faucet-BlockchainVBI2021/static/js/main.a668ab36.chunk.js.map",
+    "runtime-main.js": "/Geniverse-faucet-BlockchainVBI2021/static/js/runtime-main.0437e818.js",
+    "runtime-main.js.map": "/Geniverse-faucet-BlockchainVBI2021/static/js/runtime-main.0437e818.js.map",
+    "static/css/2.41953c31.chunk.css": "/Geniverse-faucet-BlockchainVBI2021/static/css/2.41953c31.chunk.css",
+    "static/js/2.d761f5e8.chunk.js": "/Geniverse-faucet-BlockchainVBI2021/static/js/2.d761f5e8.chunk.js",
+    "static/js/2.d761f5e8.chunk.js.map": "/Geniverse-faucet-BlockchainVBI2021/static/js/2.d761f5e8.chunk.js.map",
+    "static/js/3.08d82db6.chunk.js": "/Geniverse-faucet-BlockchainVBI2021/static/js/3.08d82db6.chunk.js",
+    "static/js/3.08d82db6.chunk.js.map": "/Geniverse-faucet-BlockchainVBI2021/static/js/3.08d82db6.chunk.js.map",
+    "index.html": "/Geniverse-faucet-BlockchainVBI2021/index.html",
+    "static/css/2.41953c31.chunk.css.map": "/Geniverse-faucet-BlockchainVBI2021/static/css/2.41953c31.chunk.css.map",
+    "static/css/main.37f0a108.chunk.css.map": "/Geniverse-faucet-BlockchainVBI2021/static/css/main.37f0a108.chunk.css.map",
+    "static/js/2.d761f5e8.chunk.js.LICENSE.txt": "/Geniverse-faucet-BlockchainVBI2021/static/js/2.d761f5e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0437e818.js",
+    "static/css/2.41953c31.chunk.css",
+    "static/js/2.d761f5e8.chunk.js",
+    "static/css/main.37f0a108.chunk.css",
+    "static/js/main.a668ab36.chunk.js"
+  ]
+}
