@@ -3,6 +3,7 @@ import 'bulma/css/bulma.min.css';
 import Web3 from 'web3';
 import { useState,useEffect } from 'react';
 import detectEthereumProvider from '@metamask/detect-provider';
+import Navbar from './Components/NavBar';
 function App() {
 
   const [web3Api, setWeb3Api] = useState({
@@ -36,8 +37,13 @@ function App() {
   }, [web3Api.web3]);
 
   return (
-    <div className="faucet-wrapper">
-      <div className="faucet">
+    <div className="faucet-wrapper has-navbar-fixed-top">
+      <div>
+
+      <Navbar/>
+      </div>
+
+      {/* <div className="faucet">
         <div className="balance-view is-size-2">
           <p>Current Balance: <strong> 10 ETH</strong></p>
         </div>
@@ -52,7 +58,8 @@ function App() {
             {account ? account : "Account Denied"}
           </p>
         </span>
-      </div>
+      </div> */}
+      <p>lorem isum</p>
     </div>
   );
 }
