@@ -3,7 +3,12 @@ import 'bulma/css/bulma.min.css';
 import Web3 from 'web3';
 import { useState,useEffect } from 'react';
 import detectEthereumProvider from '@metamask/detect-provider';
-import Navbar from './Components/NavBar';
+
+
+import HomePage from './Components/Homepage/Homepage';
+import Navbar from './Components/Navbar/NavBar';
+
+
 function App() {
 
   const [web3Api, setWeb3Api] = useState({
@@ -38,10 +43,10 @@ function App() {
 
   return (
     <div className="faucet-wrapper has-navbar-fixed-top">
-      <div>
+      
 
       <Navbar/>
-      </div>
+      <HomePage/>
 
       {/* <div className="faucet">
         <div className="balance-view is-size-2">
@@ -59,8 +64,8 @@ function App() {
           </p>
         </span>
       </div> */}
-      <p>lorem isum</p>
-    </div>
+    </div> 
+    
   );
 }
 
